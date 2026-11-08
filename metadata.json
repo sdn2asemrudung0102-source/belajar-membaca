@@ -1,0 +1,6 @@
+{
+  "name": "Ayo Belajar Membaca",
+  "description": "Aplikasi kuis interaktif belajar membaca untuk siswa kelas 1 SD: mengenal huruf vokal, konsonan, suku kata, dan merangkai kata.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
